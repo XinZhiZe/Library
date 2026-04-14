@@ -23,7 +23,7 @@ public class Book {
         currentIdNumber++;
         if(id==-1)
         {
-            bookID = currentIdNumber;
+            bookID = currentIdNumber;//ll
         }
         else
             bookID=id;
