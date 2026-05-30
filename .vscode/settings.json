@@ -1,0 +1,5 @@
+{
+    "java.project.referencedLibraries": [
+        "Database/LMS/derbyclient-10.2.2.0.jar"
+    ]
+}

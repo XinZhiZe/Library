@@ -264,6 +264,14 @@ public class Main
     
     public static void main(String[] args)
     {
+      /*   // --- 新增下面这两行代码 ---
+    try {
+        Class.forName("org.apache.derby.jdbc.ClientDriver");
+    } catch (ClassNotFoundException e) {
+        e.printStackTrace();
+        return; // 如果连驱动都找不到，直接退出程序
+    }*/
+    // -------------------------
         Scanner admin = new Scanner(System.in);
         
         //-------------------INTERFACE---------------------------//
