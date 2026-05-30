@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"LMS","l":"Book"},{"p":"LMS","l":"Borrower"},{"p":"LMS","l":"Clerk"},{"p":"LMS","l":"HoldRequest"},{"p":"LMS","l":"Librarian"},{"p":"LMS","l":"Library"},{"p":"LMS","l":"Loan"},{"p":"LMS","l":"Main"},{"p":"LMS","l":"Person"},{"p":"LMS","l":"Staff"},{"l":"所有类和接口","u":"allclasses-index.html","k":"18"}];updateSearchResults();

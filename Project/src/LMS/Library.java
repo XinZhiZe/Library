@@ -610,7 +610,7 @@ public class Library {
     {        
         try
         {
-            String host = "jdbc:derby://localhost:1527/LMS";
+            String host = "jdbc:derby:LMS;create=true";
             String uName = "haris";
             String uPass= "123";
             Connection con = DriverManager.getConnection( host, uName, uPass );
